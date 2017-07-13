@@ -1,3 +1,4 @@
 function Main(){
-  return <div>Hello</div>
+  return <div><Header /></div>
+  return <div>profile /></div>
 }
